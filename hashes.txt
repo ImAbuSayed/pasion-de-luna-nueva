@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión de luna nueva
+
+This log tracks the cryptographic history and versioning for the song **Pasión de luna nueva** (pasion-de-luna-nueva).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:56:50.328454 | `v1` | `f6de0feffbf657726aed5d909c5c41be2f050a3e34b6947354d1460eb8152696` | `a4f94cbcb54f418a6904e964d68fb03eb075a55ccd50524015b9575ba47aa9a7` | `2026-06-21_pasion-de-luna-nueva-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
