@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-luna-nueva/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión de luna nueva](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-luna-nueva/) |
+| **Get License** | [Secure Licensing Rights for Pasión de luna nueva](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-luna-nueva/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna nueva, tu piel me llama
+> Siente el calor que quema, sin pausa, sin drama
+> El ritmo de la noche nos lleva sin cadenas
+> Perdidos en el baile, tus labios son mi condena
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
